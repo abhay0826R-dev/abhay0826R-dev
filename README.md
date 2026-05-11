@@ -15,7 +15,3 @@ I build things for the web. Currently leveling up in full-stack development.
 
 ### [Job Portal](https://job-postings-murex.vercel.app/)
 A responsive job listing app — browse openings, save jobs, and apply. Built with React + Vite.
-
-## Stats
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay0826R-dev&show_icons=true&theme=midnight-purple&hide_border=true)
